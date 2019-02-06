@@ -1,0 +1,32 @@
+body {
+	background: #e8e9ea;
+}
+
+.navigasi {
+	background: #edb05e;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-radius: 10px;
+}
+
+.nav-link {
+	color: white;
+	margin-right: 8px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 15px;
+}
+
+.nav-item {
+	
+}
+
+.nav-link:hover {
+	color: #efe2d0;
+	background: #f7f5f2;
+	transition: .5s;
+}
+
+.aktif {
+	background: #f2f2f2;
+	color: black;
+}
